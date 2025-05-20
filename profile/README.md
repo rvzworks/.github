@@ -20,4 +20,5 @@ We don't overcomplicate. We build tools that work, look good, and feel right.
 - 🖼️ **Figma** — UI/UX planning & prototyping
 
 ---
-[![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord&color=5865F2&style=for-the-badge)](https://discord.gg/PBKHe2ZYzk)
+> 💬 Questions, contributions, or just want to vibe?  
+> Join the crew: [**discord.gg/rvzworks**](https://discord.gg/PBKHe2ZYzk)
